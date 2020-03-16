@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     color: #ffffff;
     text-transform: uppercase;
-    background-image: url('/images/header-bg.jpg');
+    background-image: url('images/header-bg.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
